@@ -11,3 +11,7 @@ This web Appliaction is extended version of ChatGPT with some extra added featur
 ![black text](https://github.com/user-attachments/assets/eceb000d-a2b1-4dd6-8d5b-a02092a9c08c)
 
 ![complete text](https://github.com/user-attachments/assets/c2b20121-1616-4ebd-84e3-0b1ca7999f75)
+
+![sidebar close](https://github.com/user-attachments/assets/47ced577-1274-48a6-b23e-2bc818b4768d)
+
+
